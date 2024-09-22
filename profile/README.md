@@ -1,7 +1,7 @@
 # 🌐 Organization-404
 
 **Mission**  
-🔒 **Organization-404** is on the mission to create open-source solutions for every cyber world needs. We aim to shape a secure digital future through tools that challenge the norms, setting new standards for privacy-first solutions in cyberspace.
+🔒 **Organization-404** is on the mission to create open-source solutions for every cyber world needs. We aim to shape a secure digital future through tools that challenge the norms, setting new standards for security-focused solutions in cyberspace.
 
 ---
 
@@ -20,7 +20,7 @@ Our vision extends across the **entire cyberspace**🔓. Whether it's securing e
 
 ## 👥 Who Can Join?  
 We are **NOT** just another open-source community.
-Our contributors are passionate, skilled, and relentlessly focused on building secure and efficient tools 🛠️. If you believe you have what it takes to **challenge yourself** and **contribute meaningfully** to cutting-edge cybersecurity projects, then this is the community for you. 🌟
+Our contributors are passionate and skilled focused on building secure and efficient tools 🛠️. If you believe you have what it takes to **challenge yourself** and **contribute meaningfully** to cutting-edge cybersecurity projects, then this is the community for you. 🌟
 
 👀 **But remember**, we expect every contribution to be:
 - **Optimized for performance** 🚀  
